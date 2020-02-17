@@ -14,6 +14,7 @@
 		A9F5298423F9758500FA05DB /* travelBook.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A9F5298223F9758500FA05DB /* travelBook.xcdatamodeld */; };
 		A9F5298623F9758B00FA05DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9F5298523F9758B00FA05DB /* Assets.xcassets */; };
 		A9F5298923F9758B00FA05DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9F5298723F9758B00FA05DB /* LaunchScreen.storyboard */; };
+		A9F5299123F9766E00FA05DB /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9F5299023F9766E00FA05DB /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A9F5298523F9758B00FA05DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A9F5298823F9758B00FA05DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A9F5298A23F9758B00FA05DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A9F5299023F9766E00FA05DB /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				A9F5297923F9758500FA05DB /* AppDelegate.swift */,
 				A9F5297B23F9758500FA05DB /* SceneDelegate.swift */,
 				A9F5297D23F9758500FA05DB /* ViewController.swift */,
+				A9F5299023F9766E00FA05DB /* DetailsVC.swift */,
 				A9F5297F23F9758500FA05DB /* Main.storyboard */,
 				A9F5298523F9758B00FA05DB /* Assets.xcassets */,
 				A9F5298723F9758B00FA05DB /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				A9F5297E23F9758500FA05DB /* ViewController.swift in Sources */,
 				A9F5297A23F9758500FA05DB /* AppDelegate.swift in Sources */,
 				A9F5297C23F9758500FA05DB /* SceneDelegate.swift in Sources */,
+				A9F5299123F9766E00FA05DB /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
